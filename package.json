@@ -4,7 +4,7 @@
   "description": "Code to be used to start the Quiz 10 exercise.",
   "main": "main.js",
   "scripts": {
-    "lint": "eslint '**/*.js"
+    "lint": "eslint 'main.js"
   },
   "keywords": [],
   "author": "",
